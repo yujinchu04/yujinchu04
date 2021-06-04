@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yujinchu04
-- 👀 I’m interested in ... philosophy
+- 👀 I’m interested in ... philosophy & data_science
 - 🌱 I’m currently learning ... high_school curriculum
 - 💞️ I’m looking to collaborate on ... not yet
 - 📫 How to reach me ... chuyujin2004@gmail.com
