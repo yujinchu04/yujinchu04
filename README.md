@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yujinchu04
-- 👀 I’m interested in ... philosophy & Machine Learning & data_science
+- 👀 I’m interested in ... philosophy & machine_learning & data_science
 - 🌱 I’m currently learning ... high_school(_in_korea) curriculum
 - 💞️ I’m looking to collaborate on ... not yet
 - 📫 How to reach me ... chuyujin2004@gmail.com
